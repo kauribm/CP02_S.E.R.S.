@@ -47,3 +47,12 @@ O objetivo é demonstrar técnicas de **classificação** (solar) e **regressão
 
 ## 🔋 Objetivo
 Este projeto demonstra como técnicas de **mineração de dados e aprendizado de máquina** podem apoiar previsões e análises no setor de **energias renováveis**.
+
+---
+
+## Integrantes
+- Nelson Troccoli Santos Neto (RM562815)
+- Guilherme Willians de Souza Inácio (RM565319)
+- Isabella Piñeiro Santana (RM562779)
+- Kauã da Silva Lazarim (RM564625) 
+- Kauany Ribeiro de Moura (RM564576)
