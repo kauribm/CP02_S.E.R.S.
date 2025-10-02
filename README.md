@@ -51,8 +51,7 @@ Este projeto demonstra como técnicas de **mineração de dados e aprendizado de
 ---
 
 # Datasets - Parte 02:
-
-**Acesse o notebook aqui:** [SERS_Exercicios.ipynb](SERS_Exercicios.ipynb)
+Acesse o notebook aqui: [SERS_Exercicios.ipynb](SERS_Exercicios.ipynb)
 ---
 
 ## ⚡ Exercício 1 – Classificação (Solar)
