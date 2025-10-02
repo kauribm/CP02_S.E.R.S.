@@ -1,4 +1,4 @@
-# Modelos de Energia Renovável 🌱⚡
+# Datasets - Parte 01:
 
 Este repositório reúne fluxos de trabalho no **Orange Data Mining** e um **notebook em Python** para análise de dados de energias renováveis.  
 O objetivo é demonstrar técnicas de **classificação** (solar) e **regressão** (eólica) aplicadas a datasets reais.
